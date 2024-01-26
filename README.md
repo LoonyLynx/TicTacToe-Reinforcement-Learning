@@ -15,3 +15,4 @@ The amount of wins, Ties and Losses is outputted.
 The oppenent is a random player.
 To prove the code is learning, a second program, in which all moves are choosen randomly, is used as comparison.
 
+Requirements: numpy, random, os, time, json
